@@ -1,10 +1,11 @@
-# Portfolio V5  
-Hello everyone!  
+# Make Laravel Desktop-APP  
+
 
 Copyright (c) 2012 Czarek Tomczak. Portions Copyright
 (c) 2008 Marshall A.Greenblatt, 2006 Google Inc.
 All rights reserved.
-video demo  :  [https://www.youtube.com/watch?v=KDuHfU8Zuyo](https://www.youtube.com/watch?v=KDuHfU8Zuyo)
+video demo  :  [https://www.youtube.com/watch?v=KDuHfU8Zuyo]
+
 Project website: https://github.com/cztomczak/phpdesktop
 
 Redistribution and use in source and binary forms, with
@@ -15,16 +16,19 @@ following conditions are met:
   copyright notice, this list of conditions and the
   following disclaimer.
 
+
 * Redistributions in binary form must reproduce the above
   copyright notice, this list of conditions and the
   following disclaimer in the documentation and/or other
   materials provided with the distribution.
+
 
 * Neither the name of PHP Desktop, nor the name Google Inc.
   nor the name Chromium Embedded Framework nor the names of
   its contributors may be used to endorse or promote products
   derived from this software without specific prior written
   permission.
+
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
 CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
@@ -40,12 +44,17 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+
 This product includes the following third party libraries:
 * Chromium Embedded Framework licensed under the BSD 3-clause license.
   See: https://bitbucket.org/chromiumembedded/cef
+
 * PHP Software licensed under the PHP License 3.0.1.
   See: http://www.php.net/software/
+
 * Mongoose webserver revision 04fc209 licensed under the MIT license.
   See: https://github.com/cesanta/mongoose/tree/04fc209644b414d915c446bb1815b55e9fe63acc
+
 * JSON parser licensed under the BSD 2-clause license.
   See: https://github.com/udp/json-parser
+  
